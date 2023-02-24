@@ -1,0 +1,12 @@
+C:\Users\Rafael\Desktop\Trabalhos da AdP\Teste01\TesteSolution.Domain\bin\Debug\net5.0\TesteSolution.Domain.deps.json
+C:\Users\Rafael\Desktop\Trabalhos da AdP\Teste01\TesteSolution.Domain\bin\Debug\net5.0\TesteSolution.Domain.dll
+C:\Users\Rafael\Desktop\Trabalhos da AdP\Teste01\TesteSolution.Domain\bin\Debug\net5.0\TesteSolution.Domain.pdb
+C:\Users\Rafael\Desktop\Trabalhos da AdP\Teste01\TesteSolution.Domain\obj\Debug\net5.0\TesteSolution.Domain.csproj.AssemblyReference.cache
+C:\Users\Rafael\Desktop\Trabalhos da AdP\Teste01\TesteSolution.Domain\obj\Debug\net5.0\TesteSolution.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Rafael\Desktop\Trabalhos da AdP\Teste01\TesteSolution.Domain\obj\Debug\net5.0\TesteSolution.Domain.AssemblyInfoInputs.cache
+C:\Users\Rafael\Desktop\Trabalhos da AdP\Teste01\TesteSolution.Domain\obj\Debug\net5.0\TesteSolution.Domain.AssemblyInfo.cs
+C:\Users\Rafael\Desktop\Trabalhos da AdP\Teste01\TesteSolution.Domain\obj\Debug\net5.0\TesteSolution.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Rafael\Desktop\Trabalhos da AdP\Teste01\TesteSolution.Domain\obj\Debug\net5.0\TesteSolution.Domain.dll
+C:\Users\Rafael\Desktop\Trabalhos da AdP\Teste01\TesteSolution.Domain\obj\Debug\net5.0\refint\TesteSolution.Domain.dll
+C:\Users\Rafael\Desktop\Trabalhos da AdP\Teste01\TesteSolution.Domain\obj\Debug\net5.0\TesteSolution.Domain.pdb
+C:\Users\Rafael\Desktop\Trabalhos da AdP\Teste01\TesteSolution.Domain\obj\Debug\net5.0\ref\TesteSolution.Domain.dll

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "EggsXIPuRNRZjm3O35rHFvuu2qsmvS88sImFvItiegd/n3aGFABJZPrRacz86RFfcbKukBUqx5R2R3XvcLDgww==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Rafael\\Desktop\\Trabalhos da AdP\\Teste01\\TesteSolution.ConsoleApp\\TesteSolution.ConsoleApp.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Rafael\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.16\\microsoft.netcore.app.host.win-x64.5.0.16.nupkg.sha512"
+  ],
+  "logs": []
+}
